@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="retosh">
+        <item>yes</item>
+        <item>no</item>
+        <item>mb</item>
+        <item>low chance</item>
+        <item>unlikely</item>
+        <item>high chance</item>
+        <item>unambiguously</item>
+        <item>50/50</item>
+    </string-array>
+</resources>
